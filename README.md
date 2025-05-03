@@ -48,9 +48,8 @@ To run the analysis, open the Jupyter Notebook `Analysis of Time Series Cellular
 ## Features
 - Data preprocessing and cleaning
 - Time series visualization
-- Statistical analysis
 - Machine learning model training and evaluation
-- Anomaly detection
+
 
 
 ## Contact
