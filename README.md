@@ -1,7 +1,9 @@
 # Time Series Analysis For Cellular Data
 
+
 ## Description
 This project involves the analysis of time series data from cellular networks to identify patterns, trends, and anomalies. The analysis is performed using various statistical and machine learning techniques.
+
 
 ## Table of Contents
 - Installation
@@ -10,6 +12,7 @@ This project involves the analysis of time series data from cellular networks to
 - Contributing
 - License
 - Contact
+
 
 ## Installation
 To set up the project, follow these steps:
@@ -25,9 +28,22 @@ cd Time-Series-Analysis-For-Cellular-Data
 pip install -r requirements.txt
 ```
 
+
 ## Usage
 To run the analysis, open the Jupyter Notebook `Analysis of Time Series Cellular Data.ipynb` and execute the cells. The notebook includes detailed explanations and code snippets for each step of the analysis.
 
+
+### Detailed Steps
+
+1. **Data Loading and Preprocessing**
+   - Load the dataset and perform initial preprocessing steps such as handling missing values and converting data types.
+
+2. **Exploratory Data Analysis (EDA)**
+   - Visualize the data to understand its structure and main characteristics. 
+
+3. **Modeling and Forecasting**
+   - Train Random Forest Model.
+     
 
 ## Features
 - Data preprocessing and cleaning
