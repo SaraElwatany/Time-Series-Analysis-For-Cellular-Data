@@ -24,8 +24,8 @@ git clone https://github.com/SaraElwatany/Time-Series-Analysis-For-Cellular-Data
 # Navigate to the project directory
 cd Time-Series-Analysis-For-Cellular-Data
 
-# Install the required dependencies
-pip install -r requirements.txt
+# Run the notebook
+jupyter notebook "Analysis of Time Series Cellular Data.ipynb"
 ```
 
 
