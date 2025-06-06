@@ -55,5 +55,5 @@ To run the analysis, open the Jupyter Notebook `Analysis of Time Series Cellular
 ## Contact
 For any questions or inquiries, please contact:
 
-- Email: sara.elwatany@example.com
+- Email: saraayman10000@gmail.com
 - GitHub: SaraElwatany
